@@ -51,4 +51,4 @@
 - ペットボトル製品
 
 ### 執筆歴
-* [Qiita](リンク)
+* [Qiita](https://qiita.com/scum/items/b62a3c2e939e536de867)
