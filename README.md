@@ -39,4 +39,4 @@
 https://inzs46.com
 
 ## 執筆歴
-* [【未経験】ポートフォリオ開発の記録](https://qiita.com/scum/items/b62a3c2e939e536de867)
+[【未経験】ポートフォリオ開発の記録](https://qiita.com/scum/items/b62a3c2e939e536de867)
